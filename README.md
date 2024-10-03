@@ -2,6 +2,9 @@
 
 Разработан и реализован алгоритм, обеспечивающий на 30% меньшее количество элементарных операций, чем необходимо по чек-листу на максимальную оценку.
 
+![push_swapt visualization](./images/push_swap_visualization.gif)
+[push_swap visualizer](https://github.com/o-reo/push_swap_visualizer)
+
 ### Требования для 100 элементов:
 | операций | оценка |
 | ------------- | ------------- |
@@ -24,5 +27,5 @@
 
 **Достигнут результат в ~3800 операций**
 
-![push_swapt ester result](/images/push_swap_tester_result.png)
+![push_swapt tester result](./images/push_swap_tester_result.png)
 [push_swap tester](https://github.com/laisarena/push_swap_tester)
